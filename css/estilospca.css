@@ -1,0 +1,207 @@
+body{
+	left: 0px;
+	top: 0px;
+	margin: 0px;
+	font-family: Arial;
+	background-color: #424242;
+	color: #FFFC90;
+}
+
+p{
+	color: #FFFC90;
+	text-align: justify;
+}
+
+address{
+	font-family: Arial;
+	
+}
+a{
+	color: #FFFC90;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+fieldset{
+	border: 2px solid #FFFC90;
+}
+
+td{
+	padding: 5px;
+}
+
+th{
+padding: 5px;
+}
+
+hr{
+	border-color: black;
+}
+
+#logo{
+	width: 95vw;
+	border: 5px solid black;
+	border-radius: 4px;
+	padding: 25px;
+	margin: 20px;
+	box-sizing: border-box;
+	text-align: center;
+}
+.bg{
+	width: 98%;
+	background-color: #EFE3AF;
+	border-radius: 5px;
+	margin: 1%;
+	box-sizing: border-box;
+}
+
+
+#menu{
+	background: #424242;
+	padding: 18px;
+	color: #FFFC90;
+}
+
+#biografia{
+	padding: 20px;
+}
+
+.content{
+	display: flex;
+	justify-content: center;
+}
+
+.login{
+	width: 100%;
+	max-width: 500px;
+}
+
+.formulario{
+	display: flex;
+	flex-direction: column;
+}
+
+.field{
+	padding: 10px;
+	margin-bottom: 15px;
+	border: 1px solid black;
+	border-radius: 5px;
+	font-family: Arial;
+	font-size: 16px; 
+}
+
+.dourado{
+	color: #FFFC90;
+}
+
+.ead{
+	border: 5px solid #FFFC90;
+}
+
+.tabela1{
+	border: 2px solid #FFFC90;
+	padding: 5px;
+	color: #FFFC90;
+}
+
+#coluna1{
+	width: 300px;
+	height: 500px;
+	float: left;
+	box-sizing: border-box;
+	padding: 5px;
+	border-right: 2px solid black; 
+	
+}
+
+.pesquisa1{
+	padding: 0px 30px;
+	box-sizing: border-box;
+}
+
+.espaco{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#coluna2{
+	width: 1000px;
+	height: 500px;
+	float: left;
+	box-sizing: border-box;
+	padding: 5px;
+}
+
+.clear{
+	clear: both;
+}
+
+.tabela2{
+	padding: 5px;
+	color: #FFFC90;
+	text-align: center;
+	width: 1000px;
+}
+
+.lixeira{
+	width: 30px;
+}
+
+.clipe{
+	width: 20px;
+}
+
+.tabela3{
+	padding: 5px;
+	color: #FFFC90;
+	text-align: center;
+	width: 500px;
+	font-size: 12px;
+}
+
+#relative{
+	position: relative;
+	bottom: 170px;
+	left: 505px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.aula{
+	background:  #FFFC90;
+	width: 250px;
+	height: 250px;
+	float: right;
+	border: 1px solid black;
+	max-width: 240px;
+	margin: 5px;
+}
+
+#coluna01{
+	width: 600px;
+	height: 800px;
+	float: left;
+	box-sizing: border-box;
+	padding: 5px;
+	border-right: 2px solid black; 
+}
+
+#coluna2{
+	width: 1000px;
+	height: 500px;
+	float: left;
+	box-sizing: border-box;
+	padding: 5px;
+}

@@ -1,0 +1,34 @@
+.linhas_cards{
+    max-width:90vw;
+}
+
+.card{
+	display: flex;
+	flex-direction: column;
+	float: right;
+	width: 200px;
+	height: 220px;
+	margin: 8px;
+	padding: 5px;
+	box-sizing: border-box;
+    box-shadow: 6px 6px 15px 1px rgba(0,0,0,1);
+	background-color: #FFFC90;
+	border-radius: 5px;
+	z-index: 10;
+	color: black;
+}
+
+
+.card hr{
+	background-color: rgba(0,0,0,0.2);
+	width: 90%;
+}
+
+
+.linhas{
+	margin: 4px;
+	position: relative;
+	min-height: 50px;
+	text-overflow: ellipsis;
+	text-align: justify;
+}
